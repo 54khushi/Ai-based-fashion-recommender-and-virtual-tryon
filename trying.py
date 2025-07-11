@@ -18,7 +18,7 @@ hands = mp_hands.Hands(static_image_mode=False, max_num_hands=2, min_detection_c
 cap = cv2.VideoCapture(0)
 
 # Path to shirt images and load list of shirts
-shirtFolderPath = r'C:\Users\khush\PycharmProjects\recommender_and_tryon\tryon_images' # path
+shirtFolderPath =  # path
 listShirts = os.listdir(shirtFolderPath)
 print("List of shirts:", listShirts)
 print(f"Number of shirts found: {len(listShirts)}")
@@ -30,7 +30,8 @@ shirtRatioHeightWidth = 591 / 490
 imageNumber = 0
 
 # Load button images
-imgButtonRight = cv2.imread(r'C:\Users\khush\PycharmProjects\recommender_and_tryon\resources\button.png', cv2.IMREAD_UNCHANGED)
+imgButtonRight = cv2.imread(#path of button
+  , cv2.IMREAD_UNCHANGED)
 if imgButtonRight is None:
     print("Error loading right button image. Please check the path.")
     exit()
