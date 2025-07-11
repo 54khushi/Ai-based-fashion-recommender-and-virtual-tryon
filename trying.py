@@ -30,7 +30,7 @@ shirtRatioHeightWidth = 591 / 490
 imageNumber = 0
 
 # Load button images
-imgButtonRight = cv2.imread(#path of button
+imgButtonRight = cv2.imread(#path of button (resources)
   , cv2.IMREAD_UNCHANGED)
 if imgButtonRight is None:
     print("Error loading right button image. Please check the path.")
