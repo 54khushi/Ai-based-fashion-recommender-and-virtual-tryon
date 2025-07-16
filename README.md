@@ -105,7 +105,7 @@ cd Ai-based-fashion-recommender-and-virtual-tryon
     ├── selected_shirt.txt    # Stores try-on selection
 
 
-## 📸 Screenshots
+ 📸 Screenshots
 
 ### 🖼️ Recommender System (Streamlit UI)
 ![Recommender UI](screenshots/Screenshot1.png)
