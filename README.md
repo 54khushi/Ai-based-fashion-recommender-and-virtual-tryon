@@ -57,7 +57,7 @@ This intelligent fashion system combines computer vision and deep learning to:
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/54khushi/Ai-based-fashion-recommender-and-virtual-tryon)
+git clone [https://github.com/54khushi/Ai-based-fashion-recommender-and-virtual-tryon]
 cd Ai-based-fashion-recommender-and-virtual-tryon
 
 2. Create and Activate Virtual Environment
