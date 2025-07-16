@@ -107,13 +107,13 @@ cd Ai-based-fashion-recommender-and-virtual-tryon
 
  📸 Screenshots
 
-### 🖼️ Recommender System (Streamlit UI)
+ 🖼️ Recommender System (Streamlit UI)
 ![Recommender UI](screenshots/Screenshot1.png)
 ![Recommender UI](screenshots/Screenshot2.png)
 
-### 👚 Virtual Try-On with Pose Detection
+ 👚 Virtual Try-On with Pose Detection
 
-#### 📸 Try-On Example 1
+ 📸 Try-On Example 1
 ![Try-On 1](screenshots/Screenshot3.png)
 
 
